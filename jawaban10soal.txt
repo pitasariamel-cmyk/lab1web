@@ -1,0 +1,31 @@
+JAWAB PERTANYAAN BERIKUT
+
+1. Apa fungsi deklarasi <!DOCTYPE html> pada dokumen HTML?
+<!DOCTYPE html> berfungsi untuk memberi tahu browser bahwa dokumen yang dibuat menggunakan HTML5, sehingga browser dapat menampilkan halaman sesuai dengan standar HTML5.
+
+2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
+Tag adalah penanda yang digunakan dalam HTML, contohnya <p> dan </p>. Elemen adalah keseluruhan bagian HTML yang terdiri dari tag pembuka, isi, dan tag penutup, contohnya <p>Hello</p>. Sedangkan atribut adalah informasi tambahan yang terdapat pada sebuah tag, contohnya href pada <a href="...">.
+
+3. Apa perbedaan <p> dengan <br>? Jelaskan penggunaannya.
+<p> digunakan untuk membuat sebuah paragraf baru, sedangkan <br> digunakan untuk membuat pindah baris tanpa membuat paragraf baru.
+
+4. Apa fungsi atribut href pada tag <a>?
+Atribut href digunakan untuk menentukan alamat atau tujuan dari sebuah hyperlink yang akan dibuka ketika link diklik.
+
+5. Apa perbedaan hyperlink ke halaman internal dengan hyperlink ke website eksternal?
+Hyperlink internal digunakan untuk menuju halaman lain yang masih berada dalam website atau folder yang sama. Sedangkan hyperlink eksternal digunakan untuk menuju website lain yang berada di luar website yang dibuat.
+
+6. Apa fungsi atribut src pada tag <img>?
+Atribut src digunakan untuk menentukan lokasi atau alamat file gambar yang akan ditampilkan pada halaman HTML.
+
+7. Apa perbedaan penggunaan <ul> dan <ol>?
+<ul> digunakan untuk membuat daftar yang tidak berurutan atau menggunakan bullet. Sedangkan <ol> digunakan untuk membuat daftar yang berurutan atau menggunakan nomor.
+
+8. Apa yang terjadi jika path gambar pada atribut src salah?
+Jika path gambar pada atribut src salah, maka gambar tidak akan tampil pada halaman web karena browser tidak dapat menemukan file gambar pada lokasi yang ditentukan.
+
+9. Mengapa struktur heading h1 sampai h6 perlu digunakan secara terstruktur?
+Struktur heading h1 sampai h6 perlu digunakan secara terstruktur agar isi halaman memiliki susunan dan tingkatan informasi yang jelas. H1 digunakan sebagai judul utama, sedangkan h2 sampai h6 digunakan untuk subjudul sesuai tingkatannya.
+
+10. Apa fungsi komentar <!-- ... --> dalam kode HTML?
+Komentar <!-- ... --> digunakan untuk memberikan catatan atau penjelasan di dalam kode HTML. Komentar tidak akan ditampilkan pada halaman web ketika kode dijalankan.
